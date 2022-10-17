@@ -3,5 +3,5 @@ function add(b, c){
 }
 
 function sayHello (){
-    console.log("hello from the develop branch")
+    console.log("Hello from the staging branch")
 }
