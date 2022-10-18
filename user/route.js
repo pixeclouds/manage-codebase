@@ -1,4 +1,4 @@
 const app = user()
 let user = () => {
-    return "user is defined"
+    return "user is not defined"
 }
