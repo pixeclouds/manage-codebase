@@ -1,3 +1,4 @@
 function sayHello () {
-    console.log("Hello from main")
+    console.log("Hello from BENDEX")
 }
+
